@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI PŘEDZÁPASOVÁ ANALÝZA</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            /* Tmavý gradient pozadí */
+            background: linear-gradient(135deg, #131127 0%, #0b0a18 100%);
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+        .neon-button {
+            background: linear-gradient(90deg, #6b21a8 0%, #4338ca 100%);
+            box-shadow: 0 0 15px rgba(99, 102, 241, 0.4);
+            transition: all 0.3s ease;
+        }
+        .neon-button:hover {
+            box-shadow: 0 0 25px rgba(99, 102, 241, 0.7);
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="bg-[#1c1a36] w-full max-w-md rounded-2xl shadow-2xl p-6 border border-gray-800">
+        
+        <h1 class="text-yellow-400 text-3xl font-bold text-center tracking-wide">PŘEDZÁPASOVÁ ANALÝZA</h1>
+        <p class="text-gray-300 text-center mt-2 text-sm">Dnešní výběr zápasů s maximální důvěrou</p>
+
+        <div class="grid grid-cols-2 gap-4 mt-6">
+            <div class="bg-[#252243] rounded-xl p-3 text-center border border-gray-700">
+                <p class="text-gray-400 text-xs mb-1">📅 Datum analýzy</p>
+                <p class="font-bold" id="ui-date">Dnes</p>
+            </div>
+            <div class="bg-[#252243] rounded-xl p-3 text-center border border-gray-700">
+                <p class="text-gray-400 text-xs mb-1">⚡ Status systému</p>
+                <p class="font-bold text-emerald-400 flex items-center justify-center gap-2">
+                    <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span> AKTIVNÍ
+                </p>
+            </div>
+        </div>
+
+        <div class="mt-8 relative border-2 border-yellow-500 rounded-xl p-5 bg-[#17152b]">
+            <div class="absolute -top-3 left-1/2 transform -translate-x-1/2 bg-yellow-500 text-black font-bold px-4 py-1 rounded-full text-xs tracking-wider">
+                AI CERTIFIED
+            </div>
+            
+            <div class="flex justify-between items-center text-center mt-2">
+                <div>
+                    <p class="text-gray-400 text-xs">💸 KURZ</p>
+                    <p class="text-2xl font-bold" id="ui-odds">--</p>
+                </div>
+                <div>
+                    <p class="text-gray-400 text-xs">🏆 ZÁPASY</p>
+                    <p class="text-2xl font-bold text-gray-200" id="ui-matches">1</p>
+                </div>
+                <div>
+                    <p class="text-gray-400 text-xs">🎯 AI DŮVĚRA</p>
+                    <p class="text-2xl font-bold text-emerald-400" id="ui-prob">--%</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mt-6">
+            <div class="bg-[#252243] rounded-xl p-3 text-center border border-gray-700">
+                <p class="text-gray-400 text-xs mb-1">Počet analyzovaných trhů</p>
+                <p class="font-bold text-sm">250+ příležitostí</p>
+            </div>
+            <div class="bg-[#252243] rounded-xl p-3 text-center border border-gray-700">
+                <p class="text-gray-400 text-xs mb-1">Rizikový index</p>
+                <p class="font-bold text-sm text-purple-400" id="ui-risk">--</p>
+            </div>
+            <div class="bg-[#252243] rounded-xl p-3 text-center border border-gray-700">
+                <p class="text-gray-400 text-xs mb-1">Doporučený vklad</p>
+                <p class="font-bold text-sm" id="ui-stake">-- Kč</p>
+            </div>
+            <div class="bg-[#252243] rounded-xl p-3 text-center border border-gray-700">
+                <p class="text-gray-400 text-xs mb-1">Hodnota tipu (Value)</p>
+                <p class="font-bold text-sm text-emerald-400" id="ui-value">--</p>
+            </div>
+        </div>
+
+        <div class="mt-4 bg-[#252243] rounded-xl p-4 text-center border border-gray-700">
+            <p class="text-gray-400 text-xs mb-1">DOPORUČENÝ TIP</p>
+            <p class="font-bold text-lg text-yellow-400" id="ui-tip">Čekám na data z Pythonu...</p>
+        </div>
+
+        <div class="mt-6 flex flex-col gap-3">
+            <button class="neon-button text-white font-bold py-3 rounded-xl uppercase tracking-wide text-sm flex justify-center items-center gap-2">
+                🎟️ Zobrazit tiket
+            </button>
+            <button class="bg-transparent border border-purple-500 text-purple-400 hover:bg-purple-900/30 transition-colors font-bold py-3 rounded-xl uppercase tracking-wide text-sm flex justify-center items-center gap-2">
+                📊 Zobrazit AI statistiku
+            </button>
+        </div>
+
+        <p class="text-center text-gray-500 text-xs mt-6 flex justify-center items-center gap-1">
+            🔒 AiBET v2.0 | 100% automatizováno
+        </p>
+
+    </div>
+
+</body>
+</html>
