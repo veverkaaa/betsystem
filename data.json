@@ -6,7 +6,7 @@
     "best_bet": {
         "match": "Carolina Hurricanes vs Montréal Canadiens",
         "league": "NHL 🏒",
-        "tip": "ANO Carolina Hurricanes",
+        "tip": "Carolina Hurricanes",
         "odds": 1.85,
         "implied_prob": 54.1,
         "estimated_prob": 64.2,
@@ -15,4 +15,3 @@
         "stake": 8
     }
 }
-
