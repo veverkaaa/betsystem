@@ -1,17 +1,7 @@
 {
-    "date": "22. 05. 2026",
+    "date": "23. 05. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
-    "has_data": true,
-    "best_bet": {
-        "match": "Mallorca vs Oviedo",
-        "league": "La Liga 🇪🇸",
-        "tip": "Mallorca",
-        "odds": 1.54,
-        "implied_prob": 64.9,
-        "estimated_prob": 64.9,
-        "value": 0.0,
-        "risk": "MEDIUM",
-        "stake": 8
-    }
+    "has_data": false,
+    "best_bet": null
 }
