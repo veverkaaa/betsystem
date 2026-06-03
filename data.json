@@ -1,5 +1,5 @@
 {
-    "date": "02. 06. 2026",
+    "date": "03. 06. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
     "has_data": true,
@@ -7,9 +7,9 @@
         "match": "Carolina Hurricanes vs Vegas Golden Knights",
         "league": "NHL 🏒",
         "tip": "Carolina Hurricanes",
-        "odds": 2.12,
-        "implied_prob": 47.2,
-        "estimated_prob": 58.1,
+        "odds": 2.09,
+        "implied_prob": 47.8,
+        "estimated_prob": 58.8,
         "value": 10.9,
         "risk": "MEDIUM",
         "stake": 8
