@@ -1,17 +1,7 @@
 {
-    "date": "31. 08. 2026",
+    "date": "01. 09. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
-    "has_data": true,
-    "best_bet": {
-        "match": "CA Osasuna vs Getafe",
-        "league": "La Liga 🇪🇸",
-        "tip": "Více než 1.5 gólů",
-        "odds": 1.72,
-        "implied_prob": 58.1,
-        "estimated_prob": 58.2,
-        "value": 0.1,
-        "risk": "MEDIUM",
-        "stake": 8
-    }
+    "has_data": false,
+    "best_bet": null
 }
