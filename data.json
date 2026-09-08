@@ -1,17 +1,7 @@
 {
-    "date": "07. 09. 2026",
+    "date": "08. 09. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
-    "has_data": true,
-    "best_bet": {
-        "match": "Udinese vs Lazio",
-        "league": "Serie A 🇮🇹",
-        "tip": "Méně než 2.5 gólů",
-        "odds": 1.73,
-        "implied_prob": 57.8,
-        "estimated_prob": 58.4,
-        "value": 0.6,
-        "risk": "MEDIUM",
-        "stake": 8
-    }
+    "has_data": false,
+    "best_bet": null
 }
