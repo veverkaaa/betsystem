@@ -1,17 +1,7 @@
 {
-    "date": "09. 09. 2026",
+    "date": "10. 09. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
-    "has_data": true,
-    "best_bet": {
-        "match": "Bayern Munich vs Bodø/Glimt",
-        "league": "Champions League ⭐",
-        "tip": "Bayern Munich",
-        "odds": 1.16,
-        "implied_prob": 86.2,
-        "estimated_prob": 86.6,
-        "value": 0.4,
-        "risk": "LOW",
-        "stake": 20
-    }
+    "has_data": false,
+    "best_bet": null
 }
