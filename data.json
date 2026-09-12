@@ -1,17 +1,17 @@
 {
-    "date": "11. 09. 2026",
+    "date": "12. 09. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
     "has_data": true,
     "best_bet": {
-        "match": "Go Ahead Eagles vs Groningen",
-        "league": "Eredivisie 🇳🇱",
+        "match": "Inter Milan vs Udinese",
+        "league": "Serie A 🇮🇹",
         "tip": "Méně než 3.5 gólů",
-        "odds": 1.8,
-        "implied_prob": 55.6,
-        "estimated_prob": 55.8,
-        "value": 0.3,
-        "risk": "HIGH",
-        "stake": 4
+        "odds": 1.7,
+        "implied_prob": 58.8,
+        "estimated_prob": 59.3,
+        "value": 0.5,
+        "risk": "MEDIUM",
+        "stake": 8
     }
 }
