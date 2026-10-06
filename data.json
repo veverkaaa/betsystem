@@ -1,16 +1,16 @@
 {
-    "date": "05. 10. 2026",
+    "date": "06. 10. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
     "has_data": true,
     "best_bet": {
-        "match": "Tampa Bay Lightning vs Philadelphia Flyers",
-        "league": "NHL 🏒",
-        "tip": "Tampa Bay Lightning",
-        "odds": 1.81,
-        "implied_prob": 55.2,
-        "estimated_prob": 65.0,
-        "value": 9.8,
+        "match": "Paris Basketball vs ASVEL Lyon Villeurbanne",
+        "league": "EuroLeague 🏀",
+        "tip": "Paris Basketball",
+        "odds": 1.5,
+        "implied_prob": 66.7,
+        "estimated_prob": 66.7,
+        "value": 0.0,
         "risk": "LOW",
         "stake": 20
     }
