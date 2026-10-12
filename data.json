@@ -1,17 +1,17 @@
 {
-    "date": "11. 10. 2026",
+    "date": "12. 10. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
     "has_data": true,
     "best_bet": {
-        "match": "Washington Capitals vs Seattle Kraken",
-        "league": "NHL 🏒",
-        "tip": "Washington Capitals",
-        "odds": 1.86,
-        "implied_prob": 53.8,
-        "estimated_prob": 65.0,
-        "value": 11.2,
-        "risk": "MEDIUM",
-        "stake": 8
+        "match": "KK Partizan NIS vs Panathinaikos",
+        "league": "EuroLeague 🏀",
+        "tip": "Panathinaikos",
+        "odds": 1.52,
+        "implied_prob": 65.8,
+        "estimated_prob": 67.0,
+        "value": 1.3,
+        "risk": "LOW",
+        "stake": 20
     }
 }
