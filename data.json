@@ -1,16 +1,16 @@
 {
-    "date": "14. 10. 2026",
+    "date": "15. 10. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
     "has_data": true,
     "best_bet": {
-        "match": "Panathinaikos vs Hapoel Tel Aviv",
-        "league": "EuroLeague 🏀",
-        "tip": "Panathinaikos",
-        "odds": 1.4,
-        "implied_prob": 71.4,
-        "estimated_prob": 73.2,
-        "value": 1.8,
+        "match": "Vegas Golden Knights vs Calgary Flames",
+        "league": "NHL 🏒",
+        "tip": "Vegas Golden Knights",
+        "odds": 1.56,
+        "implied_prob": 64.1,
+        "estimated_prob": 72.8,
+        "value": 8.7,
         "risk": "LOW",
         "stake": 20
     }
