@@ -1,17 +1,7 @@
 {
-    "date": "16. 10. 2026",
+    "date": "17. 10. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
-    "has_data": true,
-    "best_bet": {
-        "match": "Colorado Avalanche vs Pittsburgh Penguins",
-        "league": "NHL 🏒",
-        "tip": "Colorado Avalanche",
-        "odds": 1.83,
-        "implied_prob": 54.6,
-        "estimated_prob": 65.2,
-        "value": 10.6,
-        "risk": "LOW",
-        "stake": 20
-    }
+    "has_data": false,
+    "best_bet": null
 }
