@@ -1,17 +1,17 @@
 {
-    "date": "04. 11. 2026",
+    "date": "05. 11. 2026",
     "system_status": "AKTIVNÍ",
     "total_analyzed": "186 733 záznamů",
     "has_data": true,
     "best_bet": {
-        "match": "RC Lens vs Como",
-        "league": "Champions League ⭐",
-        "tip": "Méně než 3.5 gólů",
-        "odds": 1.65,
-        "implied_prob": 60.6,
-        "estimated_prob": 61.1,
-        "value": 0.5,
-        "risk": "MEDIUM",
-        "stake": 8
+        "match": "Colorado Avalanche vs Nashville Predators",
+        "league": "NHL 🏒",
+        "tip": "Colorado Avalanche",
+        "odds": 1.83,
+        "implied_prob": 54.6,
+        "estimated_prob": 65.5,
+        "value": 10.8,
+        "risk": "LOW",
+        "stake": 20
     }
 }
